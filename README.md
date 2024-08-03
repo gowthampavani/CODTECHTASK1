@@ -1,9 +1,9 @@
-name:-K.PAVANI
+name:-v.chandukumar
 company:-CODETECH IT SOLUTIONS
-id:-CTO8S3471
-duration:-JULY 1ST TO AUGUST 1ST 2024
+id:-CT4pp6036
+duration:- AUGUST 1ST to september 1st
 domain:-PYTHON
-mentor:-9391261627
+mentor:-muzammil ahmed
             over view of the project
             project:-python programming
             objective:-
